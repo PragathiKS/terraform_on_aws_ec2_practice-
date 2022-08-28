@@ -1,1 +1,0 @@
-# terraform_on_aws_ec2_practice-
